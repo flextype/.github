@@ -1,3 +1,3 @@
 # .github
-Files for the @fletype organization
+Files for the @flextype organization
 
